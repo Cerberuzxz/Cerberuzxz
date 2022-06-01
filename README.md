@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Cerberuzxz
 - 👀 I’m interested in css/html/js Frontend
 - 🌱 I’m currently learning courses of js
-- 💞️ I’m looking to collaborate on nothing :( 
+- 💞️ I’m looking to collaborate
 
 <!---
 Cerberuzxz/Cerberuzxz is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
