@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Cerberuzxz
-- 👀 I’m interested in css/html/js Frontend
+- 👀 I’m interested in Frontend
 - 🌱 I’m currently learning courses of js
 - 💞️ I’m looking to collaborate
 
